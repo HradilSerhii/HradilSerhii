@@ -1,6 +1,6 @@
 <p align=”center”>
 
 <img width=”200" height=”200"
-![banner](https://github.com/HradilSerhii/HradilSerhii/blob/main/images/7d4cba6384165e7b2a3e8410b493a0bf.jpg)
+![banner](https://github.com/HradilSerhii/HradilSerhii/blob/main/images/Argon.jpg)
 
 </p>
