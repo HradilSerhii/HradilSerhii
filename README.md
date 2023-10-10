@@ -1,6 +1,5 @@
-<p align=”zoom”>
-
-<img width=”1400" height=”900"
-![banner](https://github.com/HradilSerhii/HradilSerhii/blob/main/images/Argon.jpg)
-
-</p>
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HradilSerhii/HradilSerhii/blob/main/images/Argon.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/HradilSerhii/HradilSerhii/blob/main/images/Argon.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/HradilSerhii/HradilSerhii/blob/main/images/Argon.jpg">
+</picture
