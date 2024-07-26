@@ -1,14 +1,6 @@
-<h1>👋 HradilSerhii</h1>
-<!--  
-Inspired by https://www.youtube.com/watch?v=weZFfrjF-k4 
--->
-
-<div class="page-header"> Analog Clock </div>
-<div class="clock">
-  <div class="hour"></div>
-  <div class="min"></div>
-  <div class="sec"></div>
-</div>
-<div class="switch-cont">
-  <button class="switch-btn"> Light </button>
-</div>
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="poXEXYE" data-pen-title="Untitled" data-preview="true" data-editable="true" data-user="HradilSerhii" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/HradilSerhii/pen/poXEXYE">
+  Untitled</a> by HradilSerhii (<a href="https://codepen.io/HradilSerhii">@HradilSerhii</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
