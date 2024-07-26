@@ -10,5 +10,5 @@ Inspired by https://www.youtube.com/watch?v=weZFfrjF-k4
   <div class="sec"></div>
 </div>
 <div class="switch-cont">
-  <button class="switch-btn"> Dark </button>
+  <button class="switch-btn"> Light </button>
 </div>
